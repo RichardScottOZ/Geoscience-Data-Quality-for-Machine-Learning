@@ -27,6 +27,13 @@ A problem exists when building broad scale models, for example, Australia.
 - Downsampling/Upsampling
 - Missing data (Geophysic survey blanks, Remote sensing gaps on old satellites..)
 
+## Dimensionality
+- 1
+- 2
+- 3
+- 4
+- more? (Depth Slices...)
+
 ## Categorisation
 
 How, thinking in a raster fashion, to get a combined per-pixel Data Quality rating for a map output.
