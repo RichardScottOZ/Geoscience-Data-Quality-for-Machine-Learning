@@ -1,1 +1,36 @@
 # Geoscience-Data-Quality-for-Machine-Learning
+
+A problem exists when building broad scale models, for example, Australia.
+
+## Disparate datasets, breaking them down into broad domains:
+
+- Geophysics (Gravity, Magnetics, Radiometrics, Seismic, Electromagnetic, Induced Polarisation, Magnetotelluric...)
+- Geology (Lithology, Stratigraphy, Structure, Hydro..)
+- Remote Sensing (Landsat, ASTER, Sentinel...)
+- Geochemistry (Rock, Soil, Water, Assay techniques...)
+
+## Variety of data layers:
+
+- Direct observations
+- Gridded Data
+- Interpretations (Solid geology, SEEBase...)
+- Derivations (e.g. ASTER band ratios, Rolling up of rock units...)
+- Machine Learning Models (Regolith Depth...)
+- Inversions
+
+## Quality
+- Age of science
+- Technology used
+- Resolution (Pixel size, map scale, survey spacing, detection limits..)
+- Survey Type
+- Human ratings? e.g. 1-10
+- Downsampling/Upsampling
+- Missing data (Geophysic survey blanks, Remote sensing gaps on old satellites..)
+
+## Categorisation
+
+How, thinking in a raster fashion, to get a combined per-pixel Data Quality rating for a map output.
+
+Some sort of normalised ranking for each quality area?
+
+Weightings?
