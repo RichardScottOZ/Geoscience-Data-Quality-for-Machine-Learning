@@ -11,3 +11,7 @@ Likert Scale - https://www.statisticshowto.com/likert-scale-definition-and-examp
 ## ResearchGate
 
 Incorporating conceptual and interpretation uncertainty to mineral prospectivity modelling - https://www.researchgate.net/publication/333339659_Incorporating_conceptual_and_interpretation_uncertainty_to_mineral_prospectivity_modelling
+
+## GitHub
+
+Australian Gravity Quality from Geoscience Australia Data - https://github.com/RichardScottOZ/australia-gravity-data/blob/main/notebooks/Gravity-Quality-PyGMT.ipynb
