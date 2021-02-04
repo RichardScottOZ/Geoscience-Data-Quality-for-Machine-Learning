@@ -47,3 +47,4 @@ How, thinking in a raster fashion, to get a combined per-pixel Data Quality rati
 - Some sort of normalised ranking for each quality area?
 - Weightings?
 - Simple qualitative (3/2/1, Good/Average/Bad, High/Medium/Low or other ordinals).
+- Exists / Missing
