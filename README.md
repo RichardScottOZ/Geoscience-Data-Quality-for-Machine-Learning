@@ -19,6 +19,7 @@ A problem exists when building broad scale models, for example, Australia.
 - Inversions
 
 ## Quality
+
 - Age of science
 - Technology used
 - Resolution (Pixel size, map scale, survey spacing, detection limits..)
@@ -28,16 +29,21 @@ A problem exists when building broad scale models, for example, Australia.
 - Missing data (Geophysic survey blanks, Remote sensing gaps on old satellites..)
 
 ## Dimensionality
+
 - 1
 - 2
 - 3
 - 4
 - more? (Depth Slices...)
 
+## Outputs
+
+- Variance of different model runs
+
 ## Categorisation
 
 How, thinking in a raster fashion, to get a combined per-pixel Data Quality rating for a map output.
 
-Some sort of normalised ranking for each quality area?
-
-Weightings?
+- Some sort of normalised ranking for each quality area?
+- Weightings?
+- Simple qualitative (3/2/1, Good/Average/Bad, High/Medium/Low or other ordinals).
