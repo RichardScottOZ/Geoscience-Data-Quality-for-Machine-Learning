@@ -36,6 +36,14 @@ A problem exists when building broad scale models, for example, Australia.
 - 4
 - more? (Depth Slices...)
 
+## Scale
+
+- World
+- Country
+- State
+- Region
+- Local
+
 ## Outputs
 
 - Variance of different model runs
