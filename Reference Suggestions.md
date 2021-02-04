@@ -6,8 +6,8 @@ Uncertainty estimation for a geological model of the Sandstone greenstone belt, 
 
 ## OZ Minerals
 
-Likert Scale - https://www.statisticshowto.com/likert-scale-definition-and-examples/
-Mapping with machine learning - https://www.bgs.ac.uk/geology-projects/product-development/mapping-with-machine-learning/
+- Likert Scale - https://www.statisticshowto.com/likert-scale-definition-and-examples/
+- Mapping with machine learning - https://www.bgs.ac.uk/geology-projects/product-development/mapping-with-machine-learning/
 
 ## ResearchGate
 
