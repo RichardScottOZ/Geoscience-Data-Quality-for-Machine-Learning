@@ -7,3 +7,7 @@ Uncertainty estimation for a geological model of the Sandstone greenstone belt, 
 ## OZ Minerals
 
 Likert Scale - https://www.statisticshowto.com/likert-scale-definition-and-examples/
+
+## ResearchGate
+
+Incorporating conceptual and interpretation uncertainty to mineral prospectivity modelling - https://www.researchgate.net/publication/333339659_Incorporating_conceptual_and_interpretation_uncertainty_to_mineral_prospectivity_modelling
