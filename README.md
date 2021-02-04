@@ -56,3 +56,5 @@ How, thinking in a raster fashion, to get a combined per-pixel Data Quality rati
 - Weightings?
 - Simple qualitative (3/2/1, Good/Average/Bad, High/Medium/Low or other ordinals).
 - Exists / Missing
+
+![sample map output](https://github.com/RichardScottOZ/Geoscience-Data-Quality-for-Machine-Learning/blob/main/reliability_index.png "Sample Quality Map")
