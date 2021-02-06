@@ -8,6 +8,7 @@ Uncertainty estimation for a geological model of the Sandstone greenstone belt, 
 
 - Likert Scale - https://www.statisticshowto.com/likert-scale-definition-and-examples/
 - Mapping with machine learning - https://www.bgs.ac.uk/geology-projects/product-development/mapping-with-machine-learning/
+- A role for data richness mapping in exploration decision making - https://www.researchgate.net/publication/326193704_A_role_for_data_richness_mapping_in_exploration_decision_making
 
 ## ResearchGate
 
