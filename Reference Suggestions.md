@@ -2,7 +2,7 @@
 
 ## Software Underground
 
-- Uncertainty estimation for a geological model of the Sandstone greenstone belt, Western Australia – insights from integrated geological and geophysical inversion in a Bayesian inference framework - https://sp.lyellcollection.org/content/453/1/41
+- Uncertainty estimation for a geological model of the Sandstone greenstone belt, Western Australia – insights from integrated geological and geophysical inversion in a Bayesian inference framework - https://sp.lyellcollection.org/content/453/1/41 (there's a large number of references to be found in this work of interest)
 
 ## OZ Minerals
 
