@@ -12,7 +12,7 @@ Uncertainty estimation for a geological model of the Sandstone greenstone belt, 
 ## ResearchGate
 
 - A role for data richness mapping in exploration decision making - https://www.researchgate.net/publication/326193704_A_role_for_data_richness_mapping_in_exploration_decision_making
-Incorporating conceptual and interpretation uncertainty to mineral prospectivity modelling - https://www.researchgate.net/publication/333339659_Incorporating_conceptual_and_interpretation_uncertainty_to_mineral_prospectivity_modelling
+- Incorporating conceptual and interpretation uncertainty to mineral prospectivity modelling - https://www.researchgate.net/publication/333339659_Incorporating_conceptual_and_interpretation_uncertainty_to_mineral_prospectivity_modelling
 
 ## GitHub
 
