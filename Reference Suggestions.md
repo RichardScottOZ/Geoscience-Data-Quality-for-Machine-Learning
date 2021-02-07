@@ -2,7 +2,7 @@
 
 ## Software Underground
 
-Uncertainty estimation for a geological model of the Sandstone greenstone belt, Western Australia – insights from integrated geological and geophysical inversion in a Bayesian inference framework - https://sp.lyellcollection.org/content/453/1/41
+- Uncertainty estimation for a geological model of the Sandstone greenstone belt, Western Australia – insights from integrated geological and geophysical inversion in a Bayesian inference framework - https://sp.lyellcollection.org/content/453/1/41
 
 ## OZ Minerals
 
@@ -16,4 +16,4 @@ Uncertainty estimation for a geological model of the Sandstone greenstone belt, 
 
 ## GitHub
 
-Australian Gravity Quality from Geoscience Australia Data - https://github.com/RichardScottOZ/australia-gravity-data/blob/main/notebooks/Gravity-Quality-PyGMT.ipynb
+- Australian Gravity Quality from Geoscience Australia Data - https://github.com/RichardScottOZ/australia-gravity-data/blob/main/notebooks/Gravity-Quality-PyGMT.ipynb
