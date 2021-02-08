@@ -1,29 +1,32 @@
-﻿Dataset,Scr,Pres,Res,Res Scr,Final,Age,Scale,Source,Title,Domain,Sub Domain
-gravity-bouger,3,1.000,800,0.00125,1.13,2016,Country,https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/101103,Complete Bouguer Gravity Anomaly Grid of Onshore Australia 2016,Gravity,Ground
-gravity-isores,3,1.000,800,0.00125,1.13,2016,Country,https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/101105,Isostatic Residual Gravity Anomaly Grid of Onshore Australia 2016,Gravity,Ground
-magmap-tmi,3,1.000,90,0.011111111,10,2015,Country,https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/89595,Total Magnetic Intensity (TMI) Grid of Australia 2015 - sixth edition,Magnetic,Aerial
-magmap-vrtp,3,1.000,90,0.011111111,10,2015,Country,https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/89596,Total Magnetic Intensity (TMI) Grid of Australia with Variable Reduction to Pole (VRTP) - sixth edition,Magnetic,Aerial
-FeOH_Group_Content,2,1.000,90,0.011111111,6.67,2012,Country,https://data.dea.ga.gov.au/?prefix=ASTER_Geoscience_Map_of_Australia/,FeOH_Group_Content,Remote Sensing,ASTER
-Ferric_Oxide_Composition,2,1.000,90,0.011111111,6.67,2012,Country,https://data.dea.ga.gov.au/?prefix=ASTER_Geoscience_Map_of_Australia/,Ferric_Oxide_Composition,Remote Sensing,ASTER
-Ferric_Oxide_Content,2,1.000,90,0.011111111,6.67,2012,Country,https://data.dea.ga.gov.au/?prefix=ASTER_Geoscience_Map_of_Australia/,Ferric_Oxide_Content,Remote Sensing,ASTER
-Ferrous_Iron_Content_in_MgOH,2,1.000,90,0.011111111,6.67,2012,Country,https://data.dea.ga.gov.au/?prefix=ASTER_Geoscience_Map_of_Australia/,Ferrous_Iron_Content_in_MgOH,Remote Sensing,ASTER
-Ferrous_Iron_Index,2,1.000,90,0.011111111,6.67,2012,Country,https://data.dea.ga.gov.au/?prefix=ASTER_Geoscience_Map_of_Australia/,Ferrous_Iron_Index,Remote Sensing,ASTER
-Green_Vegetation,2,1.000,90,0.011111111,6.67,2012,Country,https://data.dea.ga.gov.au/?prefix=ASTER_Geoscience_Map_of_Australia/,Green_Vegetation,Remote Sensing,ASTER
-Gypsum_Index,2,1.000,90,0.011111111,6.67,2012,Country,https://data.dea.ga.gov.au/?prefix=ASTER_Geoscience_Map_of_Australia/,Gypsum_Index,Remote Sensing,ASTER
-Kaolin_Group_Index,2,1.000,90,0.011111111,6.67,2012,Country,https://data.dea.ga.gov.au/?prefix=ASTER_Geoscience_Map_of_Australia/,Kaolin_Group_Index,Remote Sensing,ASTER
-MgOH_Group_Composition,2,1.000,90,0.011111111,6.67,2012,Country,https://data.dea.ga.gov.au/?prefix=ASTER_Geoscience_Map_of_Australia/,MgOH_Group_Composition,Remote Sensing,ASTER
-MgOH_Group_Content,2,1.000,90,0.011111111,6.67,2012,Country,https://data.dea.ga.gov.au/?prefix=ASTER_Geoscience_Map_of_Australia/,MgOH_Group_Content,Remote Sensing,ASTER
-Opaque_Index,2,1.000,90,0.011111111,6.67,2012,Country,https://data.dea.ga.gov.au/?prefix=ASTER_Geoscience_Map_of_Australia/,Opaque_Index,Remote Sensing,ASTER
-Quartz_Index.,2,1.000,90,0.011111111,6.67,2012,Country,https://data.dea.ga.gov.au/?prefix=ASTER_Geoscience_Map_of_Australia/,Quartz_Index.,Remote Sensing,ASTER
-Silica_Index,2,1.000,90,0.011111111,6.67,2012,Country,https://data.dea.ga.gov.au/?prefix=ASTER_Geoscience_Map_of_Australia/,Silica_Index,Remote Sensing,ASTER
-rad-dose,3,0.978,110,0.009090909,8.01,2015,Country,https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/89604,radmap v3 2015 filtered terrestrial dose rate grid,Radiometrics,
-rad-k,3,0.978,110,0.009090909,8.01,2015,Country,https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/82851,,Radiometrics,
-rad-th,3,0.978,110,0.009090909,8.01,2015,Country,https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/82851,,Radiometrics,
-rad-u,3,0.978,110,0.009090909,8.01,2015,Country,https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/82851,,Radiometrics,
-regolith-depth,2,1.000,90,0.011111111,6.67,2015,Country,https://doi.org/10.4225/08/55C9472F05295,"Soil and Landscape Grid National Soil Attribute Maps - Depth of Regolith (3"" resolution) ",Geology,Regolith
-dtm,3,1.000,90,0.011111111,10,2009,Country,https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/69888, 3 second SRTM Derived Digital Elevation Model (DEM) Version 1.0,Topography,Elevation
-lith,1,1.000,1000,0.001,0.3,2012,Country,https://ecat.ga.gov.au/geonetwork/srv/api/records/c8856c41-0d5b-2b1d-e044-00144fdd4fa6,Lithology rolled up to 27 classes,Geology,Lithology
-age,1,1.000,1000,0.001,0.3,2012,Country,https://ecat.ga.gov.au/geonetwork/srv/api/records/c8856c41-0d5b-2b1d-e044-00144fdd4fa6,,Geology,Stratigraphy
-morph,1,0.500,1000,0.001,0.15,2012,Country,https://ecat.ga.gov.au/geonetwork/srv/api/records/c8856c41-0d5b-2b1d-e044-00144fdd4fa6,,Geology,Morphology
-faults,1,0.667,1000,0.001,0.2,2012,Country,https://ecat.ga.gov.au/geonetwork/srv/api/records/c8856c41-0d5b-2b1d-e044-00144fdd4fa6,,Geology,Incorrect Bits
-mineral occurrences (v1),1,,,,,,Country,various states,,Geology,Mineral Occurrence
+,Dataset,Scr,Pres,Res,Res Scr,Final,Age,Scale,Source,Title,Domain,Sub Domain,Unnamed: 12
+0,gravity-bouger,3,1.0,800.0,0.00125,1.13,2016.0,Country,https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/101103,Complete Bouguer Gravity Anomaly Grid of Onshore Australia 2016,Geophysics,Gravity,Ground
+1,gravity-isores,3,1.0,800.0,0.00125,1.13,2016.0,Country,https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/101105,Isostatic Residual Gravity Anomaly Grid of Onshore Australia 2016,Geophysics,Gravity,Ground
+2,magmap-tmi,3,1.0,90.0,0.011111111111111112,10.0,2015.0,Country,https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/89595,Total Magnetic Intensity (TMI) Grid of Australia 2015 - sixth edition,Geophysics,Magnetic,Aerial
+3,magmap-vrtp,3,1.0,90.0,0.011111111111111112,10.0,2015.0,Country,https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/89596,Total Magnetic Intensity (TMI) Grid of Australia with Variable Reduction to Pole (VRTP) - sixth edition,Geophysics,Magnetic,Aerial
+4,FeOH_Group_Content,2,1.0,90.0,0.011111111111111112,6.67,2012.0,Country,https://data.dea.ga.gov.au/?prefix=ASTER_Geoscience_Map_of_Australia/,FeOH_Group_Content,Remote Sensing,ASTER,
+5,Ferric_Oxide_Composition,2,1.0,90.0,0.011111111111111112,6.67,2012.0,Country,https://data.dea.ga.gov.au/?prefix=ASTER_Geoscience_Map_of_Australia/,Ferric_Oxide_Composition,Remote Sensing,ASTER,
+6,Ferric_Oxide_Content,2,1.0,90.0,0.011111111111111112,6.67,2012.0,Country,https://data.dea.ga.gov.au/?prefix=ASTER_Geoscience_Map_of_Australia/,Ferric_Oxide_Content,Remote Sensing,ASTER,
+7,Ferrous_Iron_Content_in_MgOH,2,1.0,90.0,0.011111111111111112,6.67,2012.0,Country,https://data.dea.ga.gov.au/?prefix=ASTER_Geoscience_Map_of_Australia/,Ferrous_Iron_Content_in_MgOH,Remote Sensing,ASTER,
+8,Ferrous_Iron_Index,2,1.0,90.0,0.011111111111111112,6.67,2012.0,Country,https://data.dea.ga.gov.au/?prefix=ASTER_Geoscience_Map_of_Australia/,Ferrous_Iron_Index,Remote Sensing,ASTER,
+9,Green_Vegetation,2,1.0,90.0,0.011111111111111112,6.67,2012.0,Country,https://data.dea.ga.gov.au/?prefix=ASTER_Geoscience_Map_of_Australia/,Green_Vegetation,Remote Sensing,ASTER,
+10,Gypsum_Index,2,1.0,90.0,0.011111111111111112,6.67,2012.0,Country,https://data.dea.ga.gov.au/?prefix=ASTER_Geoscience_Map_of_Australia/,Gypsum_Index,Remote Sensing,ASTER,
+11,Kaolin_Group_Index,2,1.0,90.0,0.011111111111111112,6.67,2012.0,Country,https://data.dea.ga.gov.au/?prefix=ASTER_Geoscience_Map_of_Australia/,Kaolin_Group_Index,Remote Sensing,ASTER,
+12,MgOH_Group_Composition,2,1.0,90.0,0.011111111111111112,6.67,2012.0,Country,https://data.dea.ga.gov.au/?prefix=ASTER_Geoscience_Map_of_Australia/,MgOH_Group_Composition,Remote Sensing,ASTER,
+13,MgOH_Group_Content,2,1.0,90.0,0.011111111111111112,6.67,2012.0,Country,https://data.dea.ga.gov.au/?prefix=ASTER_Geoscience_Map_of_Australia/,MgOH_Group_Content,Remote Sensing,ASTER,
+14,Opaque_Index,2,1.0,90.0,0.011111111111111112,6.67,2012.0,Country,https://data.dea.ga.gov.au/?prefix=ASTER_Geoscience_Map_of_Australia/,Opaque_Index,Remote Sensing,ASTER,
+15,Quartz_Index.,2,1.0,90.0,0.011111111111111112,6.67,2012.0,Country,https://data.dea.ga.gov.au/?prefix=ASTER_Geoscience_Map_of_Australia/,Quartz_Index.,Remote Sensing,ASTER,
+16,Silica_Index,2,1.0,90.0,0.011111111111111112,6.67,2012.0,Country,https://data.dea.ga.gov.au/?prefix=ASTER_Geoscience_Map_of_Australia/,Silica_Index,Remote Sensing,ASTER,
+17,rad-dose,3,0.9784545266210896,110.0,0.00909090909090909,8.01,2015.0,Country,https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/89604,radmap v3 2015 filtered terrestrial dose rate grid,Geophysics,Radiometrics,Aerial
+18,rad-k,3,0.9784545266210896,110.0,0.00909090909090909,8.01,2015.0,Country,https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/82851,,Geophysics,Radiometrics,Aerial
+19,rad-th,3,0.9784545266210896,110.0,0.00909090909090909,8.01,2015.0,Country,https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/82851,,Geophysics,Radiometrics,Aerial
+20,rad-u,3,0.9784545266210896,110.0,0.00909090909090909,8.01,2015.0,Country,https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/82851,,Geophysics,Radiometrics,Aerial
+21,regolith-depth,2,1.0,90.0,0.011111111111111112,6.67,2015.0,Country,https://doi.org/10.4225/08/55C9472F05295,"Soil and Landscape Grid National Soil Attribute Maps - Depth of Regolith (3"" resolution) ",Geology,Regolith,Model
+22,dtm,3,1.0,90.0,0.011111111111111112,10.0,2009.0,Country,https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/69888, 3 second SRTM Derived Digital Elevation Model (DEM) Version 1.0,Topography,Elevation,
+23,lith,1,1.0,1000.0,0.001,0.3,2012.0,Country,https://ecat.ga.gov.au/geonetwork/srv/api/records/c8856c41-0d5b-2b1d-e044-00144fdd4fa6,Lithology rolled up to 27 classes,Geology,Lithology,
+24,age,1,1.0,1000.0,0.001,0.3,2012.0,Country,https://ecat.ga.gov.au/geonetwork/srv/api/records/c8856c41-0d5b-2b1d-e044-00144fdd4fa6,,Geology,Stratigraphy,
+25,morph,1,0.5,1000.0,0.001,0.15,2012.0,Country,https://ecat.ga.gov.au/geonetwork/srv/api/records/c8856c41-0d5b-2b1d-e044-00144fdd4fa6,,Geology,Morphology,
+26,faults,1,0.6666666666666666,1000.0,0.001,0.2,2012.0,Country,https://ecat.ga.gov.au/geonetwork/srv/api/records/c8856c41-0d5b-2b1d-e044-00144fdd4fa6,,Geology,Incorrect Bits,
+27,mineral occurrences (v1),1,,,,,,Country,various states,,Geology,Mineral Occurrence,
+28,AusAEM,3,1.0,20000.0,5e-05,0.05,2019.0,Regional,https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/124092,AusAEM Year 1 NT/QLD: TEMPEST® airborne electromagnetic data and Em Flow® conductivity estimates,Geophysics,Electromagnetics,Aerial
+29,AlOH_Group_Composition,2,1.0,90.0,0.011111111111111112,6.67,2012.0,Country,https://data.dea.ga.gov.au/?prefix=ASTER_Geoscience_Map_of_Australia/,,Remote Sensing,ASTER,
+30,AlOH_Group_Content,2,1.0,90.0,0.011111111111111112,6.67,2012.0,Country,https://data.dea.ga.gov.au/?prefix=ASTER_Geoscience_Map_of_Australia/,,Remote Sensing,ASTER,
