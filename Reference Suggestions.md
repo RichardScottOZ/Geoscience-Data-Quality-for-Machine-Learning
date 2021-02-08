@@ -2,18 +2,18 @@
 
 ## Software Underground
 
-Uncertainty estimation for a geological model of the Sandstone greenstone belt, Western Australia – insights from integrated geological and geophysical inversion in a Bayesian inference framework - https://sp.lyellcollection.org/content/453/1/41
+- Uncertainty estimation for a geological model of the Sandstone greenstone belt, Western Australia â€“ insights from integrated geological and geophysical inversion in a Bayesian inference framework - https://sp.lyellcollection.org/content/453/1/41 (there's a large number of references to be found in this work of interest)
 
 ## OZ Minerals
 
 - Likert Scale - https://www.statisticshowto.com/likert-scale-definition-and-examples/
 - Mapping with machine learning - https://www.bgs.ac.uk/geology-projects/product-development/mapping-with-machine-learning/
-- A role for data richness mapping in exploration decision making - https://www.researchgate.net/publication/326193704_A_role_for_data_richness_mapping_in_exploration_decision_making
 
 ## ResearchGate
 
-Incorporating conceptual and interpretation uncertainty to mineral prospectivity modelling - https://www.researchgate.net/publication/333339659_Incorporating_conceptual_and_interpretation_uncertainty_to_mineral_prospectivity_modelling
+- A role for data richness mapping in exploration decision making - https://www.researchgate.net/publication/326193704_A_role_for_data_richness_mapping_in_exploration_decision_making
+- Incorporating conceptual and interpretation uncertainty to mineral prospectivity modelling - https://www.researchgate.net/publication/333339659_Incorporating_conceptual_and_interpretation_uncertainty_to_mineral_prospectivity_modelling
 
 ## GitHub
 
-Australian Gravity Quality from Geoscience Australia Data - https://github.com/RichardScottOZ/australia-gravity-data/blob/main/notebooks/Gravity-Quality-PyGMT.ipynb
+- Australian Gravity Quality from Geoscience Australia Data - https://github.com/RichardScottOZ/australia-gravity-data/blob/main/notebooks/Gravity-Quality-PyGMT.ipynb
