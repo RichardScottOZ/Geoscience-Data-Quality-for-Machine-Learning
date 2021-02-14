@@ -16,6 +16,10 @@
 - Incorporating conceptual and interpretation uncertainty to mineral prospectivity modelling - https://www.researchgate.net/publication/333339659_Incorporating_conceptual_and_interpretation_uncertainty_to_mineral_prospectivity_modelling
 - Measuring Data Quality of Geoscience Datasets Using Data Mining Techniques - https://www.researchgate.net/publication/220390118_Measuring_Data_Quality_of_Geoscience_Datasets_Using_Data_Mining_Techniques 
 
+## CSIRO
+
+Satellite ASTER Geoscience Product Notes for Australia - https://publications.csiro.au/publications/publication/PIcsiro:EP125895
+
 ## GitHub
 
-- Australian Gravity Quality from Geoscience Australia Data - https://github.com/RichardScottOZ/australia-gravity-data/blob/main/notebooks/Gravity-Quality-PyGMT.ipynb
+- Australian Gravity Data - https://github.com/RichardScottOZ/australia-gravity-data
