@@ -8,6 +8,7 @@
 
 - Likert Scale - https://www.statisticshowto.com/likert-scale-definition-and-examples/
 - Mapping with machine learning - https://www.bgs.ac.uk/geology-projects/product-development/mapping-with-machine-learning/
+- Geospatial Data Quality: Validity, Accuracy, and Precision - https://www.e-education.psu.edu/geog160/node/1922
 
 ## ResearchGate
 
