@@ -13,6 +13,7 @@
 
 - A role for data richness mapping in exploration decision making - https://www.researchgate.net/publication/326193704_A_role_for_data_richness_mapping_in_exploration_decision_making
 - Incorporating conceptual and interpretation uncertainty to mineral prospectivity modelling - https://www.researchgate.net/publication/333339659_Incorporating_conceptual_and_interpretation_uncertainty_to_mineral_prospectivity_modelling
+- Measuring Data Quality of Geoscience Datasets Using Data Mining Techniques - https://www.researchgate.net/publication/220390118_Measuring_Data_Quality_of_Geoscience_Datasets_Using_Data_Mining_Techniques 
 
 ## GitHub
 
