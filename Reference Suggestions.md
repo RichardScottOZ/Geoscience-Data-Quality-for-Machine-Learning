@@ -18,7 +18,7 @@
 
 ## CSIRO
 
-Satellite ASTER Geoscience Product Notes for Australia - https://publications.csiro.au/publications/publication/PIcsiro:EP125895
+- Satellite ASTER Geoscience Product Notes for Australia - https://publications.csiro.au/publications/publication/PIcsiro:EP125895
 
 ## GitHub
 
