@@ -58,10 +58,10 @@ How, thinking in a raster fashion, to get a combined per-pixel Data Quality rati
 - Exists / Missing
 
   # Reference
-  - https://www.researchgate.net/profile/Alan_Aitken/publication/326193704/figure/fig1/AS:646297606443016@1531100765653/
+  - [https://www.researchgate.net/profile/Alan_Aitken/publication/326193704/figure/fig1/AS:646297606443016@1531100765653/](https://www.researchgate.net/publication/326193704_A_role_for_data_richness_mapping_in_exploration_decision_making)
 
 ![sample map output](https://github.com/RichardScottOZ/Geoscience-Data-Quality-for-Machine-Learning/blob/main/reliability_index.png "Sample Quality Map - derived from Leonardo Uieda's Australia Gravity Data repository work")
 
 ![Framework from Aitken et al](
-https://www.researchgate.net/profile/Alan_Aitken/publication/326193704/figure/fig1/AS:646297606443016@1531100765653/Four-levels-of-data-richness-Level-1-considers-the-presence-of-nearby-data-level-2_W640.jpg "Framework from Aitken et al)
+https://www.researchgate.net/profile/Alan_Aitken/publication/326193704/figure/fig1/AS:646297606443016@1531100765653/Four-levels-of-data-richness-Level-1-considers-the-presence-of-nearby-data-level-2_W640.jpg "Framework from Aitken et al")
 
