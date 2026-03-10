@@ -1,7 +1,6 @@
 """Tests for rasterization utilities."""
 
 import os
-import tempfile
 
 import geopandas as gpd
 import numpy as np
